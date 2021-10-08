@@ -26,13 +26,12 @@
 ## Setup
 The dependencies which are necessary to run this app can be found in the package.json file.
 
-1. Node
-2. Clone the repo
-3. Run the server
+1. Clone the repo
+2. Run the server
 ```
 node server.js
 ```
-4. Visit localhost:4001 in the browser to interact with the front-end
+3. Visit localhost:4001 in the browser to interact with the front-end
 
 
 ## Learnings
