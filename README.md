@@ -27,10 +27,11 @@
 The dependencies which are necessary to run this app can be found in the package.json file.
 
 1. Clone the repo
-2. Run the server. In the terminal inside the project folder run
+2. Navigate to the project folder in the terminal and run
 ```
 node server.js
 ```
+to start the server
 3. Visit localhost:4001 in the browser to interact with the front-end
 
 
