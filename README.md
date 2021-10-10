@@ -27,7 +27,7 @@
 The dependencies which are necessary to run this app can be found in the package.json file.
 
 1. Clone the repo
-2. Run the server
+2. Run the server. In the terminal inside the project folder run
 ```
 node server.js
 ```
